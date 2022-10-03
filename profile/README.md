@@ -10,4 +10,4 @@ It hopes to become an Awesome Motion Movement in the future...🧙
 👩‍💻 We hope you want to be part of TcMotion...🙋‍♀️
 
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![TcMotion GitHub stats](https://github-readme-stats.vercel.app/api?username=TcMotion)](https://github.com/anuraghazra/github-readme-stats)

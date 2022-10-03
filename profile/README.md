@@ -12,7 +12,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://github.com/TcMotion/.github/blob/main/perfil/TcMotion_Logo.jpg" width="800"/>
+  <img src="https://github.com/TcMotion/.github/blob/main/assets/TcMotion_Logo.jpg" width="800"/>
 </div>
 
 TcMotion is an Organization that has project repositories on Motion TwinCAT, with Visualization, Unit Tests, Components, Modules, etc...

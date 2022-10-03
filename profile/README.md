@@ -1,12 +1,15 @@
-## Hi there 👋
+## Tc Motion 👋
 
-<!--
+<div id="header" align="center">
+  <img src="https://github.com/TcMotion/.github/blob/main/assets/TcMotion_Logo.jpg" width="800"/>
+</div>
 
-**Here are some ideas to get you started:**
+🌈TcMotion is an Organization that has project repositories on Motion TwinCAT, with Visualization, Unit Tests, Components, Modules, etc...
+It hopes to become an Awesome Motion Movement in the future...🧙
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 We hope you want to be part of TcMotion...🙋‍♀️
+
+***
+[![TcMotion GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimevic)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=runtimevic)](https://git.io/streak-stats)

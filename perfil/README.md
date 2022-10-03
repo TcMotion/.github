@@ -14,6 +14,6 @@ It hopes to become an Awesome Motion Movement in the future...🧙
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=runtimevic)](https://git.io/streak-stats)
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/TcMotion/.github/blob/main/assets/giphy.gif" width="800"/>
 </div>

@@ -4,11 +4,11 @@
   <img src="https://github.com/TcMotion/.github/blob/main/assets/TcMotion_Logo.jpg" width="800"/>
 </div>
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/tags/)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+![GitHub release](https://img.shields.io/github/v/release/TcMotion/Component_Motion_OOP_Axis?include_prereleases)
+![GitHub commits](https://img.shields.io/github/commit-activity/m/TcMotion/Component_Motion_OOP_Axis)
+![GitHub issues](https://img.shields.io/github/issues/TcMotion/Component_Motion_OOP_Axis)
+![GitHub forks](https://img.shields.io/github/forks/TcMotion/Component_Motion_OOP_Axis?style=social)
+<img src="https://komarev.com/ghpvc/?username=TcMotion"/>
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 #### Description:

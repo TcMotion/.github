@@ -10,10 +10,8 @@
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
-#### Other:
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
-
 #### Description:
 🌈TcMotion is an Organization that has project repositories on Motion TwinCAT, with Visualization, Unit Tests, Components, Modules, etc...
 It hopes to become an Awesome Motion Movement in the future...🧙
@@ -24,9 +22,8 @@ It hopes to become an Awesome Motion Movement in the future...🧙
 <img src="https://github.com/TcMotion/.github/blob/main/giphy.gif" width="800"/>
 </div>
 
-<!-- Copy-paste in your Readme.md file -->
-<a href = "https://github.com/TcMotion/Your_Repository_Name/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+#### Collaborators:
+<a href = "https://github.com/TcMotion/Component_Motion_OOP_Axis/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=TcMotion/Component_Motion_OOP_Axis" />
 </a>
-Made with [contributors-img](https://contrib.rocks).
 

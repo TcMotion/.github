@@ -4,12 +4,12 @@
   <img src="https://github.com/TcMotion/.github/blob/main/assets/TcMotion_Logo.jpg" width="800"/>
 </div>
 
+#### Description:
 🌈TcMotion is an Organization that has project repositories on Motion TwinCAT, with Visualization, Unit Tests, Components, Modules, etc...
 It hopes to become an Awesome Motion Movement in the future...🧙
 
 👩‍💻 We hope you want to be part of TcMotion...🙋‍♀️
 
-***
 #### Collaborators:
 <a href = "https://github.com/TcMotion/Component_Motion_OOP_Axis/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo=TcMotion/Component_Motion_OOP_Axis" />

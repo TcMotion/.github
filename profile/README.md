@@ -31,16 +31,19 @@ It hopes to become an Awesome Motion Movement in the future...🧙
 </div>
 
 ***
-Code format
-TcMotion is powered by STweep for TwinCAT, a source code formatter for Structured Text.
-
-When contributing to TcMotion, please use this set of settings for STweep.
-
-STweep is free of charge for active contributors to this project.
-
-For requesting a license for STweep, visit www.stweep.com/Opensource
+Code format:
 
 <div id="header" align="left">
-  <img src="https://github.com/TcMotion/.github/blob/main/assets/STweep.png" width="800"/>
+  <img src="https://github.com/TcMotion/.github/blob/main/assets/STweep.png" width="400"/>
 </div>
+
+Repository for STweep for Codesys and STweep for TwinCAT.
+
+STweep is a source code formatter for Structured Text.
+
+This repository is meant for bug reports, feature requests and general help.
+
+More info and details on www.stweep.com
+
+
 ***
